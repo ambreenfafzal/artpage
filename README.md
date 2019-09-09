@@ -3,7 +3,7 @@
 This site is designed to showcase my artwork. 
 
 # Library used:
-* Javascript
+* JavaScript
 * HTML
 * CSS
 * Angular 7
